@@ -1,0 +1,20 @@
+A list of students' Total Absences greather than the threshold: 1
+
+"Mort, Kris"
+
+"Willis, Bruce"
+
+"Smith, Jane"
+
+"Sam, Theo"
+
+"Payton, Ella"
+
+"James, Hannah"
+
+"Art, Bruce"
+
+"Leinart, Timothy"
+
+"Beck, Sara"
+

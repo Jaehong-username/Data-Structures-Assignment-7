@@ -1,0 +1,44 @@
+A list of all students in the course with absent times and the most recent date
+
+
+If there is no list of name on the file, it means that no one has total absences above the threshold!
+ << endlStudent Name: "Mort, Kris"
+Number of absences: 2
+The most recent absent date: 2023-11-14
+
+Student Name: "Willis, Bruce"
+Number of absences: 2
+The most recent absent date: 2023-11-14
+
+Student Name: "Smith, Jane"
+Number of absences: 3
+The most recent absent date: 2023-11-15
+
+Student Name: "Sam, Theo"
+Number of absences: 3
+The most recent absent date: 2023-11-15
+
+Student Name: "Payton, Ella"
+Number of absences: 3
+The most recent absent date: 2023-11-15
+
+Student Name: "James, Hannah"
+Number of absences: 3
+The most recent absent date: 2023-11-15
+
+Student Name: "Art, Bruce"
+Number of absences: 3
+The most recent absent date: 2023-11-15
+
+Student Name: "Leinart, Timothy"
+Number of absences: 3
+The most recent absent date: 2023-11-15
+
+Student Name: "Beck, Sara"
+Number of absences: 3
+The most recent absent date: 2023-11-15
+
+Student Name: "Smith, John"
+Number of absences: 1
+The most recent absent date: 2023-11-13
+
